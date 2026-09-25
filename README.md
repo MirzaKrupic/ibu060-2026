@@ -14,8 +14,6 @@ Announcements, quizzes and assignment submissions are all on **Moodle**. This re
 
 ## Getting started
 
-If you haven't installed Python yet, follow [SETUP.md](SETUP.md) first.
-
 To get the code, clone the repo:
 
 ```bash
@@ -84,7 +82,6 @@ weeks/
     lab/         starter files for the lab
   02-.../
 resources/       syllabus and cheat sheets
-SETUP.md         installing Anaconda and Jupyter
 ```
 
 Found a mistake in the code? Open an [issue](https://github.com/MirzaKrupic/ibu060-2026/issues) or tell me after class.
