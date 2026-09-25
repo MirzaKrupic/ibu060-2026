@@ -62,8 +62,8 @@ Check which group you're in on Moodle.
 |------|------|---------------|
 | Mirza Krupić | Lecturer, TA | [Book a slot](https://calendar.app.google/i4SiKW5zZPS7RSfW6) |
 | Emina Osmić | TA | [Book a slot](https://calendar.app.google/McYmSwk4PejZhrc76) |
-| Nedim Bandžović | TA | [Book a slot](https://calendar.app.google/McYmSwk4PejZhrc76) |
-| Samira Zeba | LA | [Book a slot](https://calendar.app.google/McYmSwk4PejZhrc76) |
+| Nedim Bandžović | TA | — |
+| Samira Zeba | LA | — |
 
 ## Grading
 
