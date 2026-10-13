@@ -6,7 +6,7 @@ Variables, `int`, `float`, `str`, `bool`, input and output.
 
 ## Lecture
 
-Code from the lecture is added to a `lecture/` folder here after class.
+Code from the lecture is in the [`lecture/`](lecture/) folder.
 
 ## Lab
 
