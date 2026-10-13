@@ -1,0 +1,6 @@
+h1 = int(input("Start hour: "))
+m1 = int(input("Start minute: "))
+h2 = int(input("End hour: "))
+m2 = int(input("End minute: "))
+diff = (h2 * 60 + m2) - (h1 * 60 + m1)
+print("Time passed:", diff // 60, "h", diff % 60, "min")
