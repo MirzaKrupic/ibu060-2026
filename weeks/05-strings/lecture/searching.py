@@ -1,0 +1,5 @@
+print("banana".count("a"))
+print("banana".find("n"))
+print("banana".find("z"))
+print("file.py".endswith(".py"))
+print("Hello".startswith("He"))

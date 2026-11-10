@@ -1,0 +1,5 @@
+print("hi".upper())
+print("HI".lower())
+print("ada lovelace".title())
+print("  hi  ".strip())
+print("cat".replace("c", "b"))
