@@ -1,0 +1,6 @@
+print("+--------------------------------+")
+print("|  Amina Hodžić                  |")
+print("|  Software Engineering, year 1  |")
+print("|  IBU Sarajevo                  |")
+print("|  Favourite food: ćevapi        |")
+print("+--------------------------------+")

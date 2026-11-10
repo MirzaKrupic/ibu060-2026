@@ -6,11 +6,11 @@ Anaconda, virtual environments, Jupyter notebooks, and your first program.
 
 ## Lecture
 
-Code from the lecture is added to a `lecture/` folder here after class.
+Code from the lecture is in the [`lecture/`](lecture/) folder.
 
 ## Lab
 
-Lab tasks and submissions are on Moodle. Starter files, if any, go in a `lab/` folder here.
+Lab code is in the [`lab/`](lab/) folder. Submissions are on Moodle.
 
 ## Reading
 

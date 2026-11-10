@@ -1,0 +1,5 @@
+print("Course:", "Fundamentals of Programming")
+print("Week:", 1)
+print("Hours per week:", 4)
+print()
+print("Done!")
