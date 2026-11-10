@@ -6,7 +6,7 @@ Anonymous functions, `map`, `filter`, `sorted` with `key`.
 
 ## Lecture
 
-Code from the lecture is added to a `lecture/` folder here after class.
+Code from the lecture is in the [`lecture/`](lecture/) folder.
 
 ## Lab
 
